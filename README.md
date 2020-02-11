@@ -2,6 +2,8 @@
 
 The beginnings of a profile user app.  Scroll through a few people using the "Next" button.  
 
+[Check out the page here](https://rachaelwhitefield.github.io/profileScroller/)
+
 [Check out a video of the app here](https://drive.google.com/open?id=19E5hSfyNn5OtIzCDzIBScq0XbPAXnC78)
 
 ### Technologies Used:
